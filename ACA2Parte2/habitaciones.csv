@@ -1,0 +1,6 @@
+Codigo;Caracteristicas;TipoHabitacion;NumeroHabitacion;Precio;NumeroPiso
+101;TV, Wi-Fi;Individual;101;100.0;1
+102;Aire acondicionado;Doble;102;150.0;1
+201;TV, Balcón;Doble;201;120.0;2
+202;Aire acondicionado, Vista al mar;Suite;202;200.0;2
+301;TV, Jacuzzi;Suite;301;250.0;3

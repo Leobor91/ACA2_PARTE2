@@ -1,0 +1,6 @@
+CodigoHuesped,CodigoReserva,CodigoHabitacion,TipoHabitacion,FechaIngreso,FechaSalida,NochesReservadas,CantidadPersonas
+H1,R1,101,Individual,2023-01-01,2023-01-05,4,1
+H2,R2,201,Doble,2023-02-01,2023-02-10,9,2
+H3,R3,301,Suite,2023-03-01,2023-03-15,14,3
+H4,R4,102,Doble,2023-04-01,2023-04-08,7,2
+H5,R5,202,Suite,2023-05-01,2023-05-20,19,3
